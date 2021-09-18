@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": " Node Api for Frontend-Vue Test App",
+  "main": "Sorry, name can only contain URL-friendly characters and name can no longer contain capital letters.",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "sergeevdavut@mail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
